@@ -16,4 +16,4 @@ Se utiliza la función de hardlimit para desarrollar este ejemplo, así como la 
 
 Descripción del problema 
 
-
+https://github.com/Ricardo-Pascual/Perceptron/wiki/Problema
