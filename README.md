@@ -15,5 +15,4 @@ Se utiliza la función de hardlimit para desarrollar este ejemplo, así como la 
 Se utiliza la función de hardlimit para desarrollar este ejemplo, así como la dos fronteras de decisión, en este caso utilizamos dos neuronas ya que no son linealmente separables, nuestros objetos de clasificación.
 
 Descripción del problema 
-
-https://github.com/Ricardo-Pascual/Perceptron/wiki/Problema
+https://github.com/Ryszard-Ps/Perceptron-IA/wiki/Problema
